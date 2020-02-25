@@ -1,0 +1,11 @@
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\bin\Debug\netcoreapp3.0\ProductsBO.deps.json
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\bin\Debug\netcoreapp3.0\ProductsBO.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\bin\Debug\netcoreapp3.0\ProductsBO.pdb
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\bin\Debug\netcoreapp3.0\ProductsModel.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\bin\Debug\netcoreapp3.0\ProductsModel.pdb
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.csprojAssemblyReference.cache
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.AssemblyInfoInputs.cache
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.AssemblyInfo.cs
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.csproj.CopyComplete
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProductsBO\obj\Debug\netcoreapp3.0\ProductsBO.pdb

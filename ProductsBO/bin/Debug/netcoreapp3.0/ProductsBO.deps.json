@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ProductsBO/1.0.0": {
+        "dependencies": {
+          "ProductsModel": "1.0.0"
+        },
+        "runtime": {
+          "ProductsBO.dll": {}
+        }
+      },
+      "ProductsModel/1.0.0": {
+        "runtime": {
+          "ProductsModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductsBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductsModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

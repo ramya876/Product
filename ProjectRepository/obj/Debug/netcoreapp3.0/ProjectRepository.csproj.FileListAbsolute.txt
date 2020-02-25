@@ -1,0 +1,10 @@
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\obj\Debug\netcoreapp3.0\ProjectRepository.csprojAssemblyReference.cache
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\obj\Debug\netcoreapp3.0\ProjectRepository.AssemblyInfoInputs.cache
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\obj\Debug\netcoreapp3.0\ProjectRepository.AssemblyInfo.cs
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProjectRepository.deps.json
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProjectRepository.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProductsBO.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProductsModel.dll
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProductsBO.pdb
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\bin\Debug\netcoreapp3.0\ProductsModel.pdb
+C:\Users\RACHINTH\source\repos\ProductManagement\ProjectRepository\obj\Debug\netcoreapp3.0\ProjectRepository.csproj.CopyComplete
